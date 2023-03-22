@@ -1,0 +1,61 @@
+# Blender MTL File: 'Church.blend'
+# Material Count: 5
+
+newmtl BrickWall
+Ns 12.570249
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.004545 0.004545 0.004545
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\user\\Desktop\\Project Lucis\\Models\\Buildings\\Accessible\\Church\\Textures\\Brick\\Bricks076A_2K_NormalGL.jpg
+map_Kd C:\\Users\\user\\Desktop\\Project Lucis\\Models\\Buildings\\Accessible\\Church\\Textures\\Brick\\Bricks076A_2K_Color.jpg
+map_Ns C:\\Users\\user\\Desktop\\Project Lucis\\Models\\Buildings\\Accessible\\Church\\Textures\\Brick\\Bricks076A_2K_Roughness.jpg
+
+newmtl Glass
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\Project Lucis\\Models\\Buildings\\Accessible\\Church\\Textures\\Imperfections\\SurfaceImperfections003_2K_var1.jpg
+
+newmtl Plaster
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\Project Lucis\\Models\\Buildings\\Accessible\\Church\\Textures\\Plaster\\PaintedPlaster015_2K_Color.jpg
+
+newmtl Roofing
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.040909 0.040909 0.040909
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\user\\Desktop\\Project Lucis\\Models\\Buildings\\Accessible\\Church\\Textures\\Roofing\\RoofingTiles003_2K_NormalGL.jpg
+map_Kd C:\\Users\\user\\Desktop\\Project Lucis\\Models\\Buildings\\Accessible\\Church\\Textures\\Roofing\\RoofingTiles003_2K_Color.jpg
+map_Ns C:\\Users\\user\\Desktop\\Project Lucis\\Models\\Buildings\\Accessible\\Church\\Textures\\Roofing\\RoofingTiles003_2K_Roughness.jpg
+
+newmtl Wood
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\Project Lucis\\Models\\Buildings\\Accessible\\Church\\Textures\\Wood\\Wood060_2K_Color.jpg
